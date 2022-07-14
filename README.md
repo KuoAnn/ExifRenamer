@@ -6,3 +6,8 @@ Edit exif info for google photos
 * --n no import folder title
 * --f force fileTime by fileName
 * --p no set photo time
+
+## Example
+``` powershell
+{{pic_path}} --f --r
+```
